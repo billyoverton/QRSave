@@ -58,7 +58,7 @@ def main():
         exit(1)
     elif(len(args) > 1):
         print "More than one file name provided."
-        print "Check that you file name is escaped if it contains spaces."
+        print "Check that your file name is escaped if it contains spaces."
         exit(1)
 
 
